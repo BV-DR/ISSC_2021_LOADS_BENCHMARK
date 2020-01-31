@@ -45,6 +45,17 @@ S8|33.553|3.406|0.0|0.291|1.221|1.273|0.907|0.193|3.59155
 S9|29.027|3.919|0.0|0.242|0.567|1.959|1.999|0.039
 
 
+### Mooring
+
+The vessel is restrain with a soft mooring, which results in a surge natural period of 11.8s (95s full scale). This is considered far enough from the wave period not to impact significantly the wave loads. 
+
+<img src="https://github.com/Guillaume4/ISSC_2021_LOADS_BENCHMARK/blob/master/\Experiments/mooring.png" alt="mooringImage" width="200"/>
+
+k1 = k2 = k3 = k4 = 56 N/m
+
+alpha = 45 degrees
+
+
 
 ## Runs
 
@@ -75,6 +86,7 @@ To ease the post-processing of the results, participants are kindly requested to
 	- Institution who is running the calculation
 	- Software category (among CFD, SPH, Fully non-linear potential, weakly non-linear potential)
 	- Software used
+	- Calculation time (order of magnitude).
 
 2. Time series of Heave, Pitch and Vertical Bending Moment ( file to be named "participantID\_caseID.dat" )
 	- 11 columns (time (s), heave (m), pitch (rad) and VBM_i (N.m), for all inter-segment from 1 to 8, separated with whitespace
@@ -82,7 +94,7 @@ To ease the post-processing of the results, participants are kindly requested to
 	- Results should include still water loads
 	- First line will be interpreted as still water behavior (this first line could be added "manually" in case simulation would not start from rest)
 
-Example of results are shown in folder Example\_1
+Example of results are shown in folder Example
 
 
 Results should be send by email.
