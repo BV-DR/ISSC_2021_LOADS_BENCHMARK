@@ -93,8 +93,10 @@ To ease the post-processing of the results, participants are kindly requested to
 	- Results given at model scale
 	- Results should include still water loads
 	- First line will be interpreted as still water behavior (this first line could be added "manually" in case simulation would not start from rest)
+	- Time range considered as steady-state for each case should be specified in file "participantId\_STABLE.dat"
 
-Example of results are shown in folder Example
+
+Example of results are shown in folder "Example"
 
 
 Results should be send by email.
