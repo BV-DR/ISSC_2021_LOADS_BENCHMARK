@@ -14,8 +14,10 @@ The geometry here provided corresponds exactly to the model (including protectio
 
 <img src="https://github.com/Guillaume4/ISSC_2021_LOADS_BENCHMARK/blob/master/Input/iges_picture.png" alt="IgesImage" width="200"/>  <img src="https://github.com/Guillaume4/ISSC_2021_LOADS_BENCHMARK/blob/master/\Experiments/experiment_illustration.png" alt="waveImage" width="200"/>
 
+All coordinates are here given from aft perpendicular. Aft perpendicular is located 0.09045m forward from the transom.
 
 ### Main dimension
+
 
 |         | Units           | Model  | Full scale |
 | ------------- |:-------------:| -----:|-----:|
