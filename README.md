@@ -22,6 +22,8 @@ All coordinates are here given from aft perpendicular. Aft perpendicular is loca
 |         | Units           | Model  | Full scale |
 | ------------- |:-------------:| -----:|-----:|
 |Lpp  | m | 4.41 | 286.6|
+|Beam | m | 0.615 | 40 |
+|Draft | m | 0.1843 | 11.98  |
 |Mass | kg | 312.61 | 85849972|
 |X_CoG |m | 2.13 | 143.70|
 |Y_CoG |m |0.0 | 0.0|
