@@ -1,7 +1,7 @@
 # ISSC 2021 - Loads Committee - BENCHMARK
 
 
-The aim of this benchmark is to better evaluate the capability of current sea-keeping codes to evaluates vertical bending moment, on **extreme waves**, on rigid hulls. Reference results are model tests performed at Ecole Centrale de Nantes ([Experimental Assessment of Vertical Shear Force and Bending Moment in Severe Sea Conditions ](https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2019/58783/V003T02A031/1067598))
+The aim of this benchmark is to better evaluate the capability of current sea-keeping codes to evaluates vertical bending moment, on **extreme waves**, on rigid hulls. Reference results are model tests performed at Ecole Centrale de Nantes ([Experimental Assessment of Vertical Shear Force and Bending Moment in Severe Sea Conditions ](https://www.sciencedirect.com/science/article/abs/pii/S0889974622000287))
 
 Benchmark specification can be found below.
 
